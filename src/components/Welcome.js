@@ -1,8 +1,6 @@
 // write code for Welcome component here
 import React from 'react';
 
-//const name = "Kajal";
-
 function Welcome (props) {
   return( 
     <>
